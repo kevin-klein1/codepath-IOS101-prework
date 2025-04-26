@@ -37,7 +37,17 @@ Example App 3: Paired App (Relationship Check in app)
 
 Example App 3: Dazz Cam (Vintage Camera Emulator)
 - The ability to filter and process photos
-- Creating multiple photo albums based on photo settings 
+- Creating multiple photo albums based on photo settings
+
+App idea I would like to build: 
+
+App name: PhotoWorld 📷 🌐
+
+PhotoWorld would be a way to create mood board style collections of your photos. I'm also a photographer and sometimes want to have a collection of cohesive images and a visually appealing way to share them with friends and colloboartors. The background colors would match the style and palette of the photos. It would be a way to creatively store, organize and share photo works. 
+
+Here's an example of a (basic) prototype I already started building in Swift ->> 
+
+![2](https://github.com/user-attachments/assets/436c9b4a-26ea-4de0-a35f-1e825edac19a)
 
 
 ## Notes
