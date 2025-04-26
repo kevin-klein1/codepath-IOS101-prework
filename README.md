@@ -15,6 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
+![Swift101](https://github.com/user-attachments/assets/1b91d247-99a2-44d8-aa8e-63682fdbbafc)
 
 
 ## App Brainstorming (Step 4)
